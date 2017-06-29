@@ -9,6 +9,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "d3": "1.29.5"
+    "d3": "2.5.1"
   }
 }
